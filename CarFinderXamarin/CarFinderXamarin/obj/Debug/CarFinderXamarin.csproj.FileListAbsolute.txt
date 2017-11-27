@@ -1,0 +1,41 @@
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\CarFinderXamarin.dll
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\CarFinderXamarin.pdb
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.csprojResolveAssemblyReference.cache
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.App.xaml.g.cs
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.Views.AboutPage.xaml.g.cs
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.Views.ItemDetailPage.xaml.g.cs
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.Views.ItemsPage.xaml.g.cs
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.Views.NewItemPage.xaml.g.cs
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.dll
+C:\Users\Judd Whitehead\Documents\Visual Studio 2017\Projects\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.pdb
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\CarFinderXamarin.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\CarFinderXamarin.pdb
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Acr.UserDialogs.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Newtonsoft.Json.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Splat.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Acr.UserDialogs.pdb
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Newtonsoft.Json.xml
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.csprojResolveAssemblyReference.cache
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.csproj.CoreCompileInputs.cache
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.App.xaml.g.cs
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.Views.MainPage.xaml.g.cs
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.dll
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.pdb
+C:\CarFinderXamarin\CarFinderXamarin\CarFinderXamarin\obj\Debug\CarFinderXamarin.Views.RecallsPage.xaml.g.cs
